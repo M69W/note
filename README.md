@@ -1,1 +1,4 @@
 # note
+
+- [[proxy]]
+- [[shizuku]]
